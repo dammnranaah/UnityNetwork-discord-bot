@@ -1,5 +1,5 @@
 TOKEN = (
-    "MTIyNjA0Mjc5ODA5Mjg0NTA3Ng.G1m6zo.KRvwP-EBhUDNJxdSJSpcyEzscMwhzocjFxG-7M"
+    "YOUR_DISCORD_TOKEN"
 )
 
 category_id = 0000000000000000000000000 # your category id for ticket 
