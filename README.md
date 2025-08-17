@@ -38,8 +38,8 @@ unitynetwork-discord-bot/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/unitynetwork-discord-bot.git
-cd unitynetwork-discord-bot
+git clone https://github.com/dammnranaah/UnityNetwork-discord-bot.git
+cd UnityNetwork-discord-bot
 ```
 
 2. **Install dependencies**
